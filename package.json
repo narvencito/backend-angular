@@ -12,8 +12,10 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
     "jsonwebtoken": "^8.1.1",
     "mongoose": "^5.0.3",
-    "mongoose-unique-validator": "^2.0.0"
+    "mongoose-unique-validator": "^2.0.0",
+    "serve-index": "^1.9.1"
   }
 }
